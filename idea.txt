@@ -1,0 +1,5 @@
+Cocina y recetas: Desarrolla una página web centrada en la cocina
+y la gastronomía. Comparte recetas deliciosas, consejos culinarios,
+reseñas de restaurantes y artículos sobre alimentos y nutrición.
+También puedes incluir tutoriales en video y permitir a los usuarios
+enviar sus propias recetas.
